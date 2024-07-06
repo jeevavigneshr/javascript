@@ -1,0 +1,5 @@
+function friend()
+{
+console.log("I HAVE STARTED TO CODE");
+}
+friend()
